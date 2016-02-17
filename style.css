@@ -1,0 +1,18 @@
+
+footer{
+background-color: transparent;
+background-image: linear-gradient(to bottom, #F2835C 0%, #E55B2B 50%, #EE6232 100%);
+background-repeat: repeat;
+background-attachment: scroll;
+background-position: 0% 0%;
+background-clip: border-box;
+background-origin: padding-box;
+background-size: auto auto;
+}
+#logo{
+	width:auto;
+	height:50;
+	background: transparent url("gu_logo_3.png") no-repeat center center;
+	background-size:100px;
+	border: 1px solid green;
+}
