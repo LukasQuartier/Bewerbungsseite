@@ -1,2 +1,0 @@
-# Bewerbungsseite
-Onepager-Projekt
